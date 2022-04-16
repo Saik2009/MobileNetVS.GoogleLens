@@ -1,0 +1,23 @@
+canvas{
+    border-width: 5px;
+    border-color: black;
+    border-style:double;
+    border-radius: 15px;
+}
+h3{
+    font-family: 'Anek Telugu', sans-serif;
+}
+#footer{
+    position:fixed;
+   background-color:silver;
+   color:white;
+   font-size: 10px;
+   bottom:0;
+   width:100%;
+   line-height:3;
+   text-align:center;
+
+}
+.btn-info{
+    font-size: 15px;
+}
